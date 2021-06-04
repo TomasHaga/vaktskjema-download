@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+body {
+  font-family: p22-underground, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  padding: 20px;
+  background-color: white;
+}
+
+.tittel {
+  text-align: center;
+  font-family: p22-underground, sans-serif;
+  font-weight: 800;
+  font-style: bold;
+  font-size: xx-large;
+}
+
+.info {
+  text-align: center;
+  width: 100%;
+  height: 20%;
+  background-color: #a2bbcf;
+  color: #a2bbcf;
+}
+
+#poster {
+  height: 400px;
+}
+
+.logo {
+  margin-top: 2em;
+  text-align: center;
+}
+#applogo {
+  height: 100px;
+}
+
+.download {
+  margin-top: 1em;
+  text-align: center;
+}
